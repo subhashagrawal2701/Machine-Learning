@@ -1,0 +1,4 @@
+Spam Email Classification Using SVM : 
+PART A : SVM classifier using a linear kernel
+PART B : SVM with kernel trick (Polynomial -degree 2/3, Sigmoid, RBF)
+PART C : Analyze Overfitting & Underfitting to choose the best
