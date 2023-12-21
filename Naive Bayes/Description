@@ -1,0 +1,3 @@
+1. Train the model: Import GaussianNB from sklearn.naive bayes. Train the model with the actually loaded dataset and again after log transformation. For now, keep both models and their validation data and test data.
+2. High precision: Draw a ROC curve for two models you got previously. As we understand the importance of emails, we don’t want not spam mail classified as spam (However very little error is acceptable). Choose one best model from the ROC curve and continue with this for the next questions. (Note: Do not use any function to plot ROC directly, you have to plot it using plt.plot function) You may take a look at the required function from here.
+3. Compare Accuracy: Compare and discuss the accuracy of Naive Bayes and SVM.
